@@ -1,0 +1,9 @@
+name="leo3"
+path="mod/leo3"
+tags={
+	"Balance"
+	"Fixes"
+	"Gameplay"
+	"Overhaul"
+}
+supported_version="1.5.1"
